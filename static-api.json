@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Note",
+        "description" : "Di dalam Note app ini kita bisa melakukan berbagai hal yang bisa dilakukan seperti note app biasa.",
+        "imageId": "Note"
+    },
+    {
+        "name": "List", 
+        "description" : "Di dalam Note app ini kita bisa mencatat berbagai hal penting dan sensitif seperti email dan password berbagai akun.",
+        "imageId": "List"
+    },
+    {
+        "name": "Todo", 
+        "description" : "Di dalam Note app ini kita juga bisa mencatat berbagai aktivitas sebagai To do list.",
+        "imageId": "Todo"
+    }
+]
